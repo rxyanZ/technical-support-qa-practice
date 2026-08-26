@@ -7,26 +7,26 @@ Verify that a user with valid credentials can successfully log in.
 ## Environment
 
 - Website: SauceDemo
-- Browser:
-- Operation System:
-- Date Tested:
+- Browser: Google Chrome
+- Operating System: macOS Tahoe (26.5.2)  
+- Date Tested: 2026/08/25
 
 ## Preconditions
 
-- SuaceDemo is accessible
+- SauceDemo is accessible
 - The tester is on the login page.
 - Valid sample credentials are available
 
 ## Test Data
 
-- Username:
-- Password:
+- Username: 'standard_user'
+- Password: 'secret_sauce'
 
 ## Test Steps
 
 1. Enter the valid username.
 2. Enter the valid password.
-3. Seelct the **Login** button.
+3. Select the **Login** button.
 
 ## Expected Result
 
@@ -34,8 +34,8 @@ The user successfully logs in and is redirected to the product inventory page.
 
 ## Actual Result
 
-Write exactly what happened when you performed the test.
+After entering a valid username and password and selecting the login button, the user was successfully redirected to the Products inventory page.
 
 ## Status
 
-Pass or Fail
+Pass
