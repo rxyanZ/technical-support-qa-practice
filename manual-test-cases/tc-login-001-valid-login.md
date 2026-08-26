@@ -8,8 +8,8 @@ Verify that a user with valid credentials can successfully log in.
 
 - Website: SauceDemo
 - Browser: Google Chrome
-- Operating System: macOS Tahoe (26.5.2)  
-- Date Tested: 2026/08/25
+- Operating System: macOS Tahoe 26.5.2  
+- Date Tested: 2026-08-25
 
 ## Preconditions
 
