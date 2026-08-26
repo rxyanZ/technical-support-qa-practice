@@ -24,7 +24,7 @@ Verify that a user cannot log in without entering a username.
 
 ## Test Steps
 
-1. Leave usernam field blank.
+1. Leave username field blank.
 2. Enter the valid password.
 3. Select the **Login** button.
 
