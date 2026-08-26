@@ -7,8 +7,8 @@ Verify that a user cannot log in without entering a password.
 ## Environment
 
 - Website: SauceDemo
-- Broswer: Google Chrome
-- Operationg System: macOS Tahoe 26.5.2
+- Browser: Google Chrome
+- Operating System: macOS Tahoe 26.5.2
 - Date Tested: 2026-08-26
 
 ## Preconditions
@@ -20,7 +20,7 @@ Verify that a user cannot log in without entering a password.
 ## Test Data
 
 - Username: `standard_user`
-- Passwrod: `<empty`
+- Password: `<empty>`
 
 ## Test Steps
 
@@ -34,7 +34,7 @@ The user remains on the login page, access is denied, and an appropriate error m
 
 ## Actual Result
 
-After entering a valid username, leaving the password field blank, and selecting the **Login** button, access is denied and the user remained on the login page. The following error message was displayed:
+After entering a valid username, leaving the password field blank, and selecting the **Login** button, access was denied and the user remained on the login page. The following error message was displayed:
 > Epic sadface: Password is required
 
 ## Status
