@@ -19,8 +19,8 @@ Verify that a user cannot log in with a valid username and an invalid password.
 
 ## Test Data
 
-- Username: 'standard_user'
-- Password: 'wrong_password'
+- Username: `standard_user`
+- Password: `wrong_password`
 
 ## Test Steps
 
