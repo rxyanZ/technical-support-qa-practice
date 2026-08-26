@@ -19,8 +19,8 @@ Verify that a user with valid credentials can successfully log in.
 
 ## Test Data
 
-- Username: 'standard_user'
-- Password: 'secret_sauce'
+- Username: `standard_user`
+- Password: `secret_sauce`
 
 ## Test Steps
 
